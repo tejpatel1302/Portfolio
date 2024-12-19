@@ -91,12 +91,12 @@ const ContactUs = () => {
 
         <div className="relative">
           <div className="relative z-1 flex flex-col md:flex-row items-start h-auto mb-5 p-8 border border-n-1/10 rounded-3xl overflow-hidden lg:p-20">
-            {/* <div className="w-full md:w-1/2 mb-8 md:mb-0">
+            <div className="w-full md:w-1/2 mb-8 md:mb-0">
               <ContactForm />
-            </div> */}
+            </div>
 
             {/* Keep the existing contact information div */}
-            <div className="relative left-[20%]  z-1 w-full md:w-1/2 md:ml-8 bg-white p-6 rounded-lg shadow-md">
+            <div className="relative z-1 w-full md:w-1/2 md:ml-8 bg-white p-6 rounded-lg shadow-md">
              
               <div className="flex items-center mb-4">
                 <span className="text-yellow-400 mr-1">★★★★★</span>
