@@ -13,7 +13,7 @@ const Hero = () => {
 
       <div className="max-w-4xl w-full text-center z-10 px-4 my-8">
         <TextGenerateEffect
-          words="A freelance software developer delivering tailored, innovative solutions, helping businesses integrate AI and leverage cutting-edge technologies to meet their unique needs."
+          words="A freelance software developer delivering tailored AI solutions and innovative technologies to meet unique business needs."
           className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-bold mb-8"
         />
         <div className="mt-8">
