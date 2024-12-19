@@ -104,7 +104,7 @@ const ContactUs = () => {
                 <span className="text-sm text-gray-500 ml-1">(3 reviews)</span>
               </div>
               <p className="text-sm mb-2">
-                📞 <a href="tel:+919558855508" className="text-black hover:underline">+918469154478</a>
+                📞 <a href="tel:+918469154478" className="text-black hover:underline">+918469154478</a>
               </p>
               <p className="text-sm mb-4">
                 ✉️ <a href="mailto:kkneurovision@gmail.com" className="text-black hover:underline">info@utsavsoni.com</a>
