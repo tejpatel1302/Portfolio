@@ -30,14 +30,14 @@ const Header = () => {
 
   return (
     <div
-      className={`fixed top-0 left-0 w-full z-50  bg-[#0a316a] border-b border-n-6 lg:bg-n-8/90 lg:backdrop-blur-sm ${
+      className={`fixed top-0 left-0 w-full z-50  bg-[#0a316a]  lg:bg-n-8/90 lg:backdrop-blur-sm ${
         openNavigation ? "bg-n-8" : "bg-n-8/90 backdrop-blur-sm"
       }`}
     >
       <div className="flex items-center px-5 lg:px-7.5 xl:px-10 max-lg:py-4">
         <a className="block w-[12rem] xl:mr-8" href="#hero">
-          {/* <span className="text-white text-2xl font-bold">Logo</span>{" "}
-          <span className="text-[#73a0c7] text-2xl font-bold"></span> */}
+          <span className="text-white text-2xl font-bold">Next</span>{" "}
+          <span className="text-[#73a0c7] text-2xl font-bold">GenDev</span>
         </a>
 
         <nav
