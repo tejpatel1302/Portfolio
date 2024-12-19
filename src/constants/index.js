@@ -78,8 +78,8 @@ export const notificationImages = [notification4, notification3, notification2];
 export const companyLogos = [yourlogo, yourlogo, yourlogo, yourlogo, yourlogo];
 
 export const brainwaveServices = [
-  "+919558855508",
-  " info@kkvisiontheray.com",
+  "+918469154478",
+  " info@utsavsoni.com",
  
 ];
 
