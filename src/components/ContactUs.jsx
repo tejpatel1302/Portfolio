@@ -107,7 +107,7 @@ const ContactUs = () => {
                 📞 <a href="tel:+918469154478" className="text-black hover:underline">+918469154478</a>
               </p>
               <p className="text-sm mb-4">
-                ✉️ <a href="mailto:kkneurovision@gmail.com" className="text-black hover:underline">info@utsavsoni.com</a>
+                ✉️ <a href="mailto:soniutsav22@gmail.com" className="text-black hover:underline">soniutsav22@gmail.com</a>
               </p>
           
             </div>

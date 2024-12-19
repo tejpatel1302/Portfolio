@@ -36,8 +36,8 @@ const Header = () => {
     >
       <div className="flex items-center px-5 lg:px-7.5 xl:px-10 max-lg:py-4">
         <a className="block w-[12rem] xl:mr-8" href="#hero">
-          <span className="text-white text-2xl font-bold">Logo</span>{" "}
-          <span className="text-[#73a0c7] text-2xl font-bold"></span>
+          {/* <span className="text-white text-2xl font-bold">Logo</span>{" "}
+          <span className="text-[#73a0c7] text-2xl font-bold"></span> */}
         </a>
 
         <nav
