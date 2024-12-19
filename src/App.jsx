@@ -7,6 +7,7 @@ import Hero from "./components/Hero";
 import Solutions from "./components/Solutions";
 
 import ContactUs from "./components/ContactUs";
+import Roadmap from "./components/Roadmap";
 
 
 
@@ -20,9 +21,9 @@ const App = () => {
         {/* <Slider/> */}
         <Benefits />
         <Collaboration />
+        <Roadmap/>
         <Solutions />
         <ContactUs />
-        {/* <Roadmap /> */}
         <Footer />
       </div>
 
